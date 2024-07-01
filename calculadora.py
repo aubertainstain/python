@@ -84,7 +84,7 @@ def porcentagem():
 
 def main():
     while True:
-        print("\n>>>>CALCULADORA<<<<\nAutor: Pedro Egydio\nEstudante do curso técnico de Análise e Desenvolvimento de Sistemas")
+        print("\n>>>>CALCULADORA<<<<\nAutor: Lucas Pereira\nEstudante do curso técnico de Análise e Desenvolvimento de Sistemas")
         print("\n\tMENU DE OPCOES\nDigite + para adicao\nDigite - para subtracao\nDigite x para multiplicacao")
         print("Digite / para divisao\nDigite p para potenciacao\nDigite r para radiciacao\nDigite c para porcentagem\nDigite s para sair\n")
         opcao = input(">>> ").strip().lower()
